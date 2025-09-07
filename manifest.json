@@ -1,0 +1,9 @@
+{
+  "package": "markdown_format",
+  "name": "Markmdown Format Button",
+  "description": "Adds a button to format the current field from markdown to HTML.",
+  "author": "Hugo Barroca",
+  "version": "1.0.0",
+  "anki_version": "25.07.5",
+  "support_site": "https://github.com/hugobarroca/AnkiAddons"
+}
